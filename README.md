@@ -8,7 +8,7 @@ This project analyzes customer demographic data to evaluate purchasing patterns 
 ---
 
 ## 📊 Dashboard Preview
-![Bike Sales Dashboard](dashboard_preview.png)
+![Bike Sales Dashboard](dashboard.png)
 
 ---
 
@@ -50,4 +50,4 @@ Using the transformed data in **Working Sheet**, several Pivot Tables were built
   * `Working Sheet`: Cleaned data with engineered feature columns (`Age Brackets`, `Commute Category`, `Income Tier`).
   * `Pivot Table`: Aggregated tables and summary metrics powering the visuals.
   * `Dashboard`: Interactive user interface with KPI cards, Pivot Charts, and dynamic Slicers (Marital Status, Region, Education).
-* `dashboard_preview.png` — High-resolution preview of the final interactive dashboard.
+* `dashboard.png` — High-resolution preview of the final interactive dashboard.
