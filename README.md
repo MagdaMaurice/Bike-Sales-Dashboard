@@ -38,7 +38,7 @@ Using the transformed data in **Working Sheet**, several Pivot Tables were built
 ---
 
 ## 🔍 Key Business Insights
-* **Income Trend:** Bike buyers have a higher overall average income (~$57,963) compared to non-buyers (~$54,875) across both male and female groups.
+* **Income Trend:** Bike buyers have a higher overall average income ($57,963) compared to non-buyers ($54,875) across both male and female groups.
 * **Age Distribution:** The **Middle Age** demographic accounts for the largest share of total bicycle purchases (383 out of 481 total buyers).
 * **Commute Impact:** Customers with **Short Commutes (0–2 miles)** represent the highest volume of bicycle buyers (277 buyers).
 
